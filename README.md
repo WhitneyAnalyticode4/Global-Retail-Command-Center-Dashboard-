@@ -288,7 +288,7 @@ This project demonstrates the following analytical skills:
 
 #  Dashboard Preview
 
-![Dashboard](Dashboard)
+![Dashboard](Dashboard.JPG)
 
 
 ---
