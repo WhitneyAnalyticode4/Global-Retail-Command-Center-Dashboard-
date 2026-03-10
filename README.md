@@ -95,7 +95,7 @@ A **star schema model** was created to improve analytical performance.
 
 ## Fact Table
 
-### Sales Table
+### Sales Table 
 
 Contains transactional data including revenue, cost, quantity, and order information.
 
@@ -288,7 +288,7 @@ This project demonstrates the following analytical skills:
 
 #  Dashboard Preview
 
-![Global Retail Dashboard](dashboard.png)
+![Dashboard](Dashboard.JPG)
 
 
 ---
